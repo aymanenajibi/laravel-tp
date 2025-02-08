@@ -1,7 +1,6 @@
 # 📌 laravel-tp
 
-Une courte description de ton projet Laravel.
-
+contient des tp pour comprendre bien laravel
 ---
 
 ## 🚀 Installation
